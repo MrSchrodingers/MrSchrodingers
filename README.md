@@ -1,39 +1,90 @@
-### Oi, eu sou o Matheus Munhoz (User: Mrschrodingers)! 👋
+<div align="center">
 
-Salve! Bem vindo 😳 
+# 👋 Olá, eu sou Matheus Munhoz!
 
----
+### Salve!
 
-### Tecnologias 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6B7280&background=00000000&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack;Engenheiro+de+Dados;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 
-<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png" />  
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/.../javascript.png" />  
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/.../nodejs.png" />  
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/.../typescript.png" />  
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/.../react.png" />  
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/.../docker.png" />  
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/.../postgresql.png" />  
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/.../mongodb-original.svg" />  
-<img align="left" alt="Apache Airflow" width="26px" src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/wordmark_1.png" />  
-<img align="left" alt="Prefect" width="26px" src="https://www.prefect.io/brand-assets/favicon.png" />  
-<img align="left" alt="GraphAPI" width="26px" src="https://cdn.jsdelivr.net/.../graphapi-icon.svg" />  
-<br clear="left"/>
-
----
-
-### Progressos
-
-<div align="left">
-  <img align="right" alt="GitHub Stat" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true" />
-  <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" />
 </div>
-<br clear="both"/>
 
 ---
 
-### Métricas
+## 🛠️ **Stack Tecnológica**
 
-- 🏆 **Contribuições diárias**:  
- <img align="right" alt="José Roman GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MrSchrodingers&show_icons=true&hide_border=true&theme=dracula" />
- <img align="left" alt="José Roman Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSchrodingers&hide_border=true&theme=dracula" />
+<div align="center">
+
+### **Linguagens**
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sql" />
+
+### **Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,fastapi,django" />
+
+### **Banco de Dados**
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
+
+### **DevOps & Ferramentas**
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,aws" />
+
+### **Data Engineering**
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</div>
+
 ---
+
+## 📊 **Estatísticas do GitHub**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSchrodingers&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=79c0ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSchrodingers&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSchrodingers&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=79c0ff&fire=79c0ff&currStreakLabel=c9d1d9" />
+</div>
+
+---
+
+## 🏆 **Conquistas**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrSchrodingers&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 **Atividade de Contribuição**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSchrodingers&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=30363d&point=c9d1d9" />
+</div>
+
+---
+
+## 🎯 **Sobre Mim**
+
+```python
+class MatheusMunhoz:
+    def __init__(self):
+        self.username = "MrSchrodingers"
+        self.name = "Matheus Munhoz"
+        self.role = "Full Stack Developer & Data Engineer"
+        self.location = "Brasil 🇧🇷"
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "TypeScript", "SQL"],
+            "frontend": ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
+            "backend": ["Node.js", "FastAPI", "Django", "Express"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis"],
+            "data_engineering": ["Apache Airflow", "Prefect", "Pandas", "NumPy"],
+            "devops": ["Docker", "AWS", "Git", "Linux"],
+            "currently_learning": ["Machine Learning", "Cloud Architecture"]
+        }
+    
+    def get_interests(self):
+        return ["Data Engineering", "Web Development", "Open Source", "AI/ML"]
