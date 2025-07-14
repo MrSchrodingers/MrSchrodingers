@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ **Stack Tecnológica**
+## 🛠️ **Stacks**
 
 <div align="center">
 
