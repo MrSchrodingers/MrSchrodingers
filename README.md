@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou Matheus Munhoz!
+# 👋 Hi, I'm Matheus Munhoz (AKA MrSchrodingers)!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6B7280&background=00000000&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack;Engenharia+de+Dados;Salve!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6B7280&background=00000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Full+Stack+Developer;Data+Engineering;Save!" alt="Typing SVG" />
 
 </div>
 
@@ -18,10 +18,10 @@
 ### **Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,fastapi,django,nestjs" />
 
-### **Banco de Dados**
+### **Database**
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
 
-### **DevOps & Ferramentas**
+### **DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,hetzner" />
 
 ### **Data Engineering**
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**
+## 📊 **GitHub Stats**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSchrodingers&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=79c0ff"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📈 **Atividade de Contribuição**
+## 📈 **Activity**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSchrodingers&theme=github-compact&hide_border=true&bg_color=0d1117&color=79c0ff&line=30363d&point=c9d1d9" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 🎯 **Sobre Mim**
+## 🎯 **About me**
 
 ```python
 class MatheusMunhoz:
