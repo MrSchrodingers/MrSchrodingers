@@ -15,16 +15,16 @@
 <div align="center">
 
 ### **Linguagens**
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql" />
 
 ### **Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,fastapi,django,nestjs" />
 
 ### **Banco de Dados**
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
 
 ### **DevOps & Ferramentas**
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,aws" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,hetzner" />
 
 ### **Data Engineering**
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
@@ -78,12 +78,12 @@ class MatheusMunhoz:
     def get_skills(self):
         return {
             "languages": ["Python", "JavaScript", "TypeScript", "SQL"],
-            "frontend": ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
-            "backend": ["Node.js", "FastAPI", "Django", "Express"],
+            "frontend": ["React", "Next.js"],
+            "backend": ["Node.js", "FastAPI", "Django", "Nest.js"],
             "databases": ["PostgreSQL", "MongoDB", "Redis"],
             "data_engineering": ["Apache Airflow", "Prefect", "Pandas", "NumPy"],
-            "devops": ["Docker", "AWS", "Git", "Linux"],
-            "currently_learning": ["Machine Learning", "Cloud Architecture"]
+            "devops": ["Docker", "Hetzner", "Git", "Linux"],
+            "currently_learning": ["Machine Learning", "Cloud Architecture", "LLM"]
         }
     
     def get_interests(self):
