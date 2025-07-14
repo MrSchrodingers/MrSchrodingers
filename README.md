@@ -10,27 +10,25 @@
 
 ## 🛠️ **Stacks**
 
-<div align="center">
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql" />
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql" />
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,fastapi,django,nestjs" />
 
-### **Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,fastapi,django,nestjs" />
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
 
-### **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,hetzner" />
 
-### **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,hetzner" />
-
-### **Data Engineering**
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-</div>
+  <!-- Data Engineering -->
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 ---
 
