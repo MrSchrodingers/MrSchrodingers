@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### **Linguagens**
+### **Languages**
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql" />
 
 ### **Frameworks & Libraries**
