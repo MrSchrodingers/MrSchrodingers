@@ -39,7 +39,7 @@
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSchrodingers&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=79c0ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSchrodingers&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=79c0ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSchrodingers&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9"/>
 </div>
 
