@@ -42,6 +42,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSchrodingers&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSchrodingers&theme=github-dark-blue&hide_border=true&currStreakLabel=c9d1d9" />
+</div>
+
 ---
 
 ## 📈 **Activity**
