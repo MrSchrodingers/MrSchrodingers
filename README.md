@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSchrodingers&theme=github-dark-blue&hide_border=true&currStreakLabel=c9d1d9" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=MrSchrodingers&theme=github-dark-blue&hide_border=true&currStreakLabel=c9d1d9](https://github-readme-streak-stats.herokuapp.com/?user=MrSchrodingers&theme=github-dark-blue&hide_border=true&currStreakLabel=c9d1d9)" />
 </div>
 
 ---
